@@ -46,6 +46,6 @@ class Test
         a = d1.GetSalary();
         b = d2.GetSalary();
         Console.WriteLine($"Salary of developer : {a}"); //Printing the salary of the developer.
-        Console.WriteLine($"Salary of driver : {b}");    //Printing the salary of the data analyst.
+        Console.WriteLine($"Salary of data analyst : {b}");    //Printing the salary of the data analyst.
     }
 }
